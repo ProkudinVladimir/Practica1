@@ -16,8 +16,8 @@ public class MainActivity extends AppCompatActivity {
         TextView myTextView = (TextView) findViewById(R.id.textView);
     //    myTextView.setText("New Text in Mirea");
     //    Button button = findViewById(R.id.button);
-   //     button.setText("MireaButton");
-   //     CheckBox checkBox = findViewById(R.id.checkBox);
-   //     checkBox.setChecked(true);
+    //     button.setText("MireaButton");
+    //     CheckBox checkBox = findViewById(R.id.checkBox);
+    //     checkBox.setChecked(true);
     }
 }
